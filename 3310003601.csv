@@ -1,0 +1,433 @@
+﻿REF_DATE,GEO,DGUID,Type of currency,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+5/1/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.8996,,,,4
+5/2/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9087,,,,4
+5/3/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9084,,,,4
+5/4/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9066,,,,4
+5/5/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9049,,,,4
+5/6/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,,..,,,4
+5/7/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,,..,,,4
+5/8/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9068,,,,4
+5/9/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9048,,,,4
+5/10/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9055,,,,4
+5/11/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9035,,,,4
+5/12/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9007,,,,4
+5/13/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,,..,,,4
+5/14/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,,..,,,4
+5/15/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.9029,,,,4
+5/16/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.8966,,,,4
+5/1/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2715,,,,4
+5/2/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2703,,,,4
+5/3/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2716,,,,4
+5/4/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2711,,,,4
+5/5/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2709,,,,4
+5/6/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,,..,,,4
+5/7/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,,..,,,4
+5/8/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.268,,,,4
+5/9/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.268,,,,4
+5/10/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2699,,,,4
+5/11/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2718,,,,4
+5/12/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2746,,,,4
+5/13/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,,..,,,4
+5/14/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,,..,,,4
+5/15/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2748,,,,4
+5/16/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2733,,,,4
+5/1/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.196,,,,4
+5/2/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.197,,,,4
+5/3/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.197,,,,4
+5/4/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.1963,,,,4
+5/5/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.1942,,,,4
+5/6/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,,..,,,4
+5/7/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,,..,,,4
+5/8/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.1931,,,,4
+5/9/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.1935,,,,4
+5/10/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.193,,,,4
+5/11/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.194,,,,4
+5/12/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.1946,,,,4
+5/13/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,,..,,,4
+5/14/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,,..,,,4
+5/15/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.194,,,,4
+5/16/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.1929,,,,4
+5/1/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4881,,,,4
+5/2/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4959,,,,4
+5/3/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.5043,,,,4
+5/4/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4951,,,,4
+5/5/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4784,,,,4
+5/6/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,,..,,,4
+5/7/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,,..,,,4
+5/8/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.472,,,,4
+5/9/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4675,,,,4
+5/10/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.468,,,,4
+5/11/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4716,,,,4
+5/12/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4705,,,,4
+5/13/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,,..,,,4
+5/14/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,,..,,,4
+5/15/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4667,,,,4
+5/16/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4625,,,,4
+5/1/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.172565,,,,6
+5/2/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.173478,,,,6
+5/3/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.173457,,,,6
+5/4/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.172863,,,,6
+5/5/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.171093,,,,6
+5/6/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,,..,,,6
+5/7/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,,..,,,6
+5/8/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.170148,,,,6
+5/9/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.170757,,,,6
+5/10/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.170818,,,,6
+5/11/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.171978,,,,6
+5/12/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.172573,,,,6
+5/13/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,,..,,,6
+5/14/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,,..,,,6
+5/15/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.172057,,,,6
+5/16/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.171669,,,,6
+5/1/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01657,,,,5
+5/2/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01665,,,,5
+5/3/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01665,,,,5
+5/4/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.0166,,,,5
+5/5/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01643,,,,5
+5/6/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,,..,,,5
+5/7/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,,..,,,5
+5/8/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01633,,,,5
+5/9/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01631,,,,5
+5/10/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01632,,,,5
+5/11/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01641,,,,5
+5/12/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01647,,,,5
+5/13/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,,..,,,5
+5/14/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,,..,,,5
+5/15/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.0164,,,,5
+5/16/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01635,,,,5
+5/1/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000092,,,,6
+5/2/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000093,,,,6
+5/3/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000093,,,,6
+5/4/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000092,,,,6
+5/5/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000091,,,,6
+5/6/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,,..,,,6
+5/7/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,,..,,,6
+5/8/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000091,,,,6
+5/9/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000091,,,,6
+5/10/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000091,,,,6
+5/11/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000092,,,,6
+5/12/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000092,,,,6
+5/13/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,,..,,,6
+5/14/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,,..,,,6
+5/15/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000091,,,,6
+5/16/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000091,,,,6
+5/1/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00987,,,,5
+5/2/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00996,,,,5
+5/3/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.01006,,,,5
+5/4/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.01011,,,,5
+5/5/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00996,,,,5
+5/6/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,,..,,,5
+5/7/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,,..,,,5
+5/8/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.0099,,,,5
+5/9/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00991,,,,5
+5/10/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00995,,,,5
+5/11/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.01003,,,,5
+5/12/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.01,,,,5
+5/13/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,,..,,,5
+5/14/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,,..,,,5
+5/15/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00991,,,,5
+5/16/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00987,,,,5
+5/1/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07551,,,,5
+5/2/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07565,,,,5
+5/3/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.076,,,,5
+5/4/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07566,,,,5
+5/5/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.0754,,,,5
+5/6/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,,..,,,5
+5/7/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,,..,,,5
+5/8/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07499,,,,5
+5/9/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07533,,,,5
+5/10/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07595,,,,5
+5/11/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07647,,,,5
+5/12/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07686,,,,5
+5/13/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,,..,,,5
+5/14/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,,..,,,5
+5/15/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07689,,,,5
+5/16/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07702,,,,5
+5/1/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8365,,,,4
+5/2/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.845,,,,4
+5/3/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8487,,,,4
+5/4/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8518,,,,4
+5/5/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8449,,,,4
+5/6/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,,..,,,4
+5/7/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,,..,,,4
+5/8/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.848,,,,4
+5/9/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8473,,,,4
+5/10/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8503,,,,4
+5/11/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8501,,,,4
+5/12/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8393,,,,4
+5/13/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,,..,,,4
+5/14/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,,..,,,4
+5/15/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8398,,,,4
+5/16/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8388,,,,4
+5/1/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1262,,,,4
+5/2/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1262,,,,4
+5/3/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1265,,,,4
+5/4/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1267,,,,4
+5/5/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1268,,,,4
+5/6/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,,..,,,4
+5/7/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,,..,,,4
+5/8/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1274,,,,4
+5/9/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1267,,,,4
+5/10/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1274,,,,4
+5/11/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1266,,,,4
+5/12/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1267,,,,4
+5/13/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,,..,,,4
+5/14/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,,..,,,4
+5/15/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1269,,,,4
+5/16/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1257,,,,4
+5/1/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3655,,,,4
+5/2/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3671,,,,4
+5/3/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.367,,,,4
+5/4/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3651,,,,4
+5/5/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.362,,,,4
+5/6/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,,..,,,4
+5/7/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,,..,,,4
+5/8/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3606,,,,4
+5/9/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3622,,,,4
+5/10/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3638,,,,4
+5/11/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3673,,,,4
+5/12/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3702,,,,4
+5/13/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,,..,,,4
+5/14/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,,..,,,4
+5/15/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3681,,,,4
+5/16/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3657,,,,4
+5/1/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01708,,,,5
+5/2/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01702,,,,5
+5/3/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01719,,,,5
+5/4/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01734,,,,5
+5/5/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01744,,,,5
+5/6/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,,..,,,5
+5/7/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,,..,,,5
+5/8/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01716,,,,5
+5/9/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01723,,,,5
+5/10/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01759,,,,5
+5/11/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01751,,,,5
+5/12/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01745,,,,5
+5/13/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,,..,,,5
+5/14/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,,..,,,5
+5/15/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.01694,,,,5
+5/16/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.0167,,,,5
+5/1/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3612,,,,4
+5/2/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3631,,,,4
+5/3/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3631,,,,4
+5/4/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3617,,,,4
+5/5/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.358,,,,4
+5/6/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,,..,,,4
+5/7/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,,..,,,4
+5/8/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3561,,,,4
+5/9/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3571,,,,4
+5/10/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3567,,,,4
+5/11/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3594,,,,4
+5/12/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3609,,,,4
+5/13/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,,..,,,4
+5/14/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,,..,,,4
+5/15/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3596,,,,4
+5/16/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3588,,,,4
+5/1/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0147,,,,4
+5/2/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0197,,,,4
+5/3/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.023,,,,4
+5/4/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0214,,,,4
+5/5/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0128,,,,4
+5/6/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,,..,,,4
+5/7/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,,..,,,4
+5/8/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0082,,,,4
+5/9/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0085,,,,4
+5/10/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0088,,,,4
+5/11/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0127,,,,4
+5/12/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0121,,,,4
+5/13/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,,..,,,4
+5/14/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,,..,,,4
+5/15/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0088,,,,4
+5/16/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0048,,,,4
+5/1/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07381,,,,5
+5/2/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07381,,,,5
+5/3/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07451,,,,5
+5/4/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07422,,,,5
+5/5/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07291,,,,5
+5/6/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,,..,,,5
+5/7/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,,..,,,5
+5/8/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.0729,,,,5
+5/9/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07209,,,,5
+5/10/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07102,,,,5
+5/11/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07028,,,,5
+5/12/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07011,,,,5
+5/13/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,,..,,,5
+5/14/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,,..,,,5
+5/15/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07076,,,,5
+5/16/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07054,,,,5
+5/1/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.00101,,,,6
+5/2/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001015,,,,6
+5/3/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001022,,,,6
+5/4/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001024,,,,6
+5/5/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001018,,,,6
+5/6/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,,..,,,6
+5/7/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,,..,,,6
+5/8/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001011,,,,6
+5/9/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.00101,,,,6
+5/10/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001013,,,,6
+5/11/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001012,,,,6
+5/12/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.00101,,,,6
+5/13/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,,..,,,6
+5/14/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,,..,,,6
+5/15/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001009,,,,6
+5/16/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001003,,,,6
+5/1/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1313,,,,4
+5/2/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1321,,,,4
+5/3/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1328,,,,4
+5/4/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1323,,,,4
+5/5/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1319,,,,4
+5/6/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,,..,,,4
+5/7/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,,..,,,4
+5/8/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1316,,,,4
+5/9/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1313,,,,4
+5/10/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1309,,,,4
+5/11/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1306,,,,4
+5/12/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1305,,,,4
+5/13/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,,..,,,4
+5/14/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,,..,,,4
+5/15/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1302,,,,4
+5/16/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1294,,,,4
+5/1/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5136,,,,4
+5/2/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5219,,,,4
+5/3/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5348,,,,4
+5/4/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5309,,,,4
+5/5/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5047,,,,4
+5/6/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,,..,,,4
+5/7/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,,..,,,4
+5/8/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5019,,,,4
+5/9/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5019,,,,4
+5/10/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5033,,,,4
+5/11/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5072,,,,4
+5/12/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5092,,,,4
+5/13/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,,..,,,4
+5/14/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,,..,,,4
+5/15/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5066,,,,4
+5/16/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5021,,,,4
+5/1/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04398,,,,5
+5/2/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.0442,,,,5
+5/3/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04436,,,,5
+5/4/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04418,,,,5
+5/5/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04378,,,,5
+5/6/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,,..,,,5
+5/7/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,,..,,,5
+5/8/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04352,,,,5
+5/9/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04357,,,,5
+5/10/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04359,,,,5
+5/11/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.0438,,,,5
+5/12/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04393,,,,5
+5/13/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,,..,,,5
+5/14/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,,..,,,5
+5/15/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04377,,,,5
+5/16/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04363,,,,5
+5/1/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0696,,,,4
+5/2/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.07,,,,4
+5/3/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0699,,,,4
+5/4/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0696,,,,4
+5/5/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0689,,,,4
+5/6/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,,..,,,4
+5/7/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,,..,,,4
+5/8/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0685,,,,4
+5/9/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0686,,,,4
+5/10/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0684,,,,4
+5/11/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0689,,,,4
+5/12/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0691,,,,4
+5/13/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,,..,,,4
+5/14/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,,..,,,4
+5/15/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0686,,,,4
+5/16/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0682,,,,4
+5/1/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6944,,,,4
+5/2/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6978,,,,4
+5/3/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.707,,,,4
+5/4/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.7062,,,,4
+5/5/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6946,,,,4
+5/6/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,,..,,,4
+5/7/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,,..,,,4
+5/8/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6874,,,,4
+5/9/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6887,,,,4
+5/10/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6888,,,,4
+5/11/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6881,,,,4
+5/12/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.688,,,,4
+5/13/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,,..,,,4
+5/14/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,,..,,,4
+5/15/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6886,,,,4
+5/16/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6811,,,,4
+5/1/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3546,,,,4
+5/2/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3618,,,,4
+5/3/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3616,,,,4
+5/4/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3566,,,,4
+5/5/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3427,,,,4
+5/6/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,,..,,,4
+5/7/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,,..,,,4
+5/8/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3354,,,,4
+5/9/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.339,,,,4
+5/10/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3375,,,,4
+5/11/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3477,,,,4
+5/12/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3534,,,,4
+5/13/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,,..,,,4
+5/14/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,,..,,,4
+5/15/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3487,,,,4
+5/16/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3456,,,,4
+5/1/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/2/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/3/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/4/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/5/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/6/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/7/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/8/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/9/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/10/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/11/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/12/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/13/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/14/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/15/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/16/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/17/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.8966,,,,4
+5/17/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2733,,,,4
+5/17/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.1929,,,,4
+5/17/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4625,,,,4
+5/17/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.171669,,,,6
+5/17/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01635,,,,5
+5/17/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000091,,,,6
+5/17/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00987,,,,5
+5/17/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07702,,,,5
+5/17/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8388,,,,4
+5/17/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1257,,,,4
+5/17/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3657,,,,4
+5/17/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.0167,,,,5
+5/17/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3588,,,,4
+5/17/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0048,,,,4
+5/17/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07054,,,,5
+5/17/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001003,,,,6
+5/17/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1294,,,,4
+5/17/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5021,,,,4
+5/17/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04363,,,,5
+5/17/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0682,,,,4
+5/17/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6811,,,,4
+5/17/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3456,,,,4
+5/17/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
+5/18/2023,Canada,2016A000011124,"Australian dollar, daily average",Dollars,81,units,0,v111666224,1.1,0.8966,,,,4
+5/18/2023,Canada,2016A000011124,"Brazilian real, daily average",Dollars,81,units,0,v111666225,1.2,0.2733,,,,4
+5/18/2023,Canada,2016A000011124,"Chinese renminbi, daily average",Dollars,81,units,0,v111666226,1.3,0.1929,,,,4
+5/18/2023,Canada,2016A000011124,"European euro, daily average",Dollars,81,units,0,v111666227,1.4,1.4625,,,,4
+5/18/2023,Canada,2016A000011124,"Hong Kong dollar, daily average",Dollars,81,units,0,v111666228,1.5,0.171669,,,,6
+5/18/2023,Canada,2016A000011124,"Indian rupee, daily average",Dollars,81,units,0,v111666229,1.6,0.01635,,,,5
+5/18/2023,Canada,2016A000011124,"Indonesian rupiah, daily average",Dollars,81,units,0,v111666230,1.7,0.000091,,,,6
+5/18/2023,Canada,2016A000011124,"Japanese yen, daily average",Dollars,81,units,0,v111666231,1.8,0.00987,,,,5
+5/18/2023,Canada,2016A000011124,"Mexican peso, daily average",Dollars,81,units,0,v111666233,1.1,0.07702,,,,5
+5/18/2023,Canada,2016A000011124,"New Zealand dollar, daily average",Dollars,81,units,0,v111666234,1.11,0.8388,,,,4
+5/18/2023,Canada,2016A000011124,"Norwegian krone, daily average",Dollars,81,units,0,v111666235,1.12,0.1257,,,,4
+5/18/2023,Canada,2016A000011124,"Peruvian new sol, daily average",Dollars,81,units,0,v111666236,1.13,0.3657,,,,4
+5/18/2023,Canada,2016A000011124,"Russian ruble, daily average",Dollars,81,units,0,v111666237,1.14,0.0167,,,,5
+5/18/2023,Canada,2016A000011124,"Saudi riyal, daily average",Dollars,81,units,0,v111666238,1.15,0.3588,,,,4
+5/18/2023,Canada,2016A000011124,"Singapore dollar, daily average",Dollars,81,units,0,v111666239,1.16,1.0048,,,,4
+5/18/2023,Canada,2016A000011124,"South African rand, daily average",Dollars,81,units,0,v111666240,1.17,0.07054,,,,5
+5/18/2023,Canada,2016A000011124,"South Korean won, daily average",Dollars,81,units,0,v111666241,1.18,0.001003,,,,6
+5/18/2023,Canada,2016A000011124,"Swedish krona, daily average",Dollars,81,units,0,v111666242,1.19,0.1294,,,,4
+5/18/2023,Canada,2016A000011124,"Swiss franc, daily average",Dollars,81,units,0,v111666243,1.2,1.5021,,,,4
+5/18/2023,Canada,2016A000011124,"Taiwanese dollar, daily average",Dollars,81,units,0,v111666244,1.21,0.04363,,,,5
+5/18/2023,Canada,2016A000011124,"Turkish lira, daily average",Dollars,81,units,0,v111666246,1.23,0.0682,,,,4
+5/18/2023,Canada,2016A000011124,"U.K. pound sterling, daily average",Dollars,81,units,0,v111666247,1.24,1.6811,,,,4
+5/18/2023,Canada,2016A000011124,"U.S. dollar, daily average",Dollars,81,units,0,v111666248,1.25,1.3456,,,,4
+5/18/2023,Canada,2016A000011124,Canadian-Dollar Effective Exchange Rate Index (CERI),"Index, 1992=100",173,units,0,v111666250,1.27,,..,,t,8
